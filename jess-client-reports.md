@@ -1,5 +1,5 @@
 # Jess Tayel — Client Reports
-**Generated:** 28 March 2026
+**Generated:** 17 April 2026
 **Source:** Jess AI Dashboard
 
 > This file contains all coaching progress reports and cumulative client reports. Add this to Claude when doing client-specific work, preparing for sessions, or reviewing client progress.
