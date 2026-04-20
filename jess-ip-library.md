@@ -4304,27 +4304,17 @@ What would it look like to redesign your current program for enablement rather t
 ### LinkedIn Post 1 — The Mirror Reframe
 
 **Hook:**
-Failure isn't an event.
-It's a mirror.
+Failure isn't an event. It's a mirror.
 
 **Body:**
-It shows you the real state of the organisation.
-The assumptions that were wrong.
-The conditions that were absent.
-The relationships that were not built.
-The culture that was not ready.
+When a transformation fails, the first thing most organisations do is look for the execution problem. The wrong project manager. The change plan that wasn't detailed enough. The comms that didn't land. And sometimes that's right. But more often, the execution was fine and the failure is pointing at something deeper, something about the organisation itself that the program was never going to fix.
 
-Most organisations respond to transformation failure by looking for someone to blame or something to fix.
+The mirror metaphor matters because it changes the question. Instead of "why did this fail," you ask "what is this failure showing me?" Those two questions lead to completely different places. The first one is a blame exercise. The second one is a diagnostic.
 
-But the failure is not the problem.
-The failure is the information.
-
-The question is not: why did this fail?
-The question is: what is this failure showing me?
+What the mirror tends to show: assumptions that were never tested, conditions that were assumed to be in place but weren't, relationships that needed to be built six months before the program launched, and a culture that was not as ready as the sponsor believed. None of that shows up in a project plan. All of it shows up in a failure.
 
 **Insight:**
-The organisations that learn from transformation failure are not the ones with the best post-mortems.
-They are the ones with the courage to look honestly at what the mirror is reflecting.
+The organisations that actually learn from transformation failure are not the ones with the most thorough post-mortems. They're the ones willing to look honestly at what the mirror is reflecting, even when what it shows is uncomfortable.
 
 **CTA:**
 What is the last transformation failure in your organisation showing you?
@@ -4336,36 +4326,19 @@ What is the last transformation failure in your organisation showing you?
 ### LinkedIn Post 2 — The Failure Autopsy
 
 **Hook:**
-After a transformation fails, most organisations do a post-mortem.
-
-They find out what went wrong.
-They assign accountability.
-They move on.
-
-Here is what they miss.
+Most organisations do a post-mortem after a transformation fails. Here's what a post-mortem misses.
 
 **Body:**
-A post-mortem tells you what happened.
-A Failure Autopsy tells you what the failure is revealing.
+A post-mortem tells you what happened in the execution. Who dropped the ball, where the timeline slipped, which workstream ran out of resource. That's useful, but it's not the whole picture, and it's often not even the important part.
 
-Four questions that change everything:
+The Failure Autopsy asks a different set of questions. Not "what went wrong" but "what is this failure revealing about the organisation." Four questions: What assumptions were wrong? What conditions were absent? What relationships were not built? What cultural signals were ignored?
 
-1. What assumptions were wrong?
-2. What conditions were absent?
-3. What relationships were not built?
-4. What cultural signals were ignored?
+These are not accountability questions. They're diagnostic ones. And the answers don't produce a blame list. They produce a blueprint for what needs to be different before the next program starts.
 
-These are not blame questions.
-They are diagnostic questions.
-
-And the answers are not a post-mortem.
-They are a blueprint for what to do differently.
+The reason most organisations skip this is that the answers are uncomfortable. They tend to point at leadership, at culture, at the things that were known to be problems but were not addressed before the program launched. A post-mortem lets you stay in the execution layer. The Failure Autopsy takes you into the organisational layer, which is where the real intelligence lives.
 
 **Insight:**
-Most transformation failures are not execution failures.
-They are assumption failures.
-
-The Failure Autopsy surfaces those assumptions — so the next program doesn't repeat them.
+Most transformation failures are not execution failures. They're assumption failures. The Failure Autopsy surfaces those assumptions so the next program doesn't inherit them.
 
 **CTA:**
 Which of the four questions would be most uncomfortable to answer honestly about your last transformation?
@@ -4374,38 +4347,23 @@ Which of the four questions would be most uncomfortable to answer honestly about
 
 ---
 
-### LinkedIn Post 3 — The Assumption Problem
+### LinkedIn Post 3 — The Assumption Inventory
 
 **Hook:**
-Every transformation is built on assumptions.
-Most of them are never made explicit.
-That is why most transformations fail.
+Every transformation is built on assumptions. Most of them are never made explicit. That's why most transformations fail.
 
 **Body:**
-The assumption that the sponsor is committed.
-The assumption that the culture is ready.
-The assumption that the stakeholders understand what is being asked of them.
-The assumption that the resources are adequate.
-The assumption that the mandate is clear.
+Think about the last program you ran or were part of. At the start, there were things everyone assumed to be true. That the executive sponsor was genuinely committed, not just nominally supportive. That the culture had the capacity to absorb the change. That the stakeholders understood what was being asked of them and had the bandwidth to engage. That the resources allocated were actually adequate for the scope. That the mandate was clear enough to hold when things got difficult.
 
-These assumptions are not tested.
-They are inherited.
+None of those assumptions were tested. They were inherited from the business case, from the sponsor's confidence, from the project plan. And when they turned out to be wrong, the program absorbed the consequences without anyone connecting the failure back to the original assumption.
 
-And when they are wrong — which they often are — the transformation fails.
-Not because of poor execution.
-Because of wrong assumptions.
-
-The Assumption Inventory is the practice of surfacing these assumptions before the program begins.
-Making them explicit. Testing them. Correcting them.
+The Assumption Inventory is the practice of making those assumptions explicit before the program launches. Not as a risk register, but as a genuine inquiry: what are we assuming to be true, and what would we need to see to know it actually is? It's a short exercise. It takes a few hours. And it surfaces the things that, if left untested, will become the failure story you tell six months later.
 
 **Insight:**
-The assumptions that are wrong at the start become the failures at the end.
-
-The only question is whether you find out before the program launches or after it fails.
+The assumptions that are wrong at the start become the failures at the end. The only question is whether you find out before the program launches or after it fails.
 
 **CTA:**
-What assumptions is your current transformation program built on?
-Have you tested them?
+What assumptions is your current transformation program built on? Have you tested them?
 
 #TransformationLeadership #ChangeManagement #Leadership #OrganisationalChange #TransformationDesign
 
