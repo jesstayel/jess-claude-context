@@ -2,7 +2,7 @@
 
 > Auto-generated from Jess AI Dashboard. Contains all extracted intellectual property from Jess's blog posts. Last updated: April 2026.
 
-**Total blog IP documents:** 39
+**Total blog IP documents:** 42
 
 ---
 
@@ -7335,5 +7335,361 @@ Permission to be honest about what's hard. Permission to stop performing the ver
 **Insight:** When you give yourself that permission, something changes in the people around you. The team relaxes. The conversation deepens. The problems that were being managed start being solved. Your humanity is not a liability. It is the thing that makes you worth following.
 
 **CTA:** What do you need permission to do or be right now?
+
+---
+
+## Who Is Actually Advising Your Organisation on AI? (Blog IP — Blog 41)
+**Description:** IP extraction from the blog 'Who is actually advising your organisation on AI?'. Extracts the Three Categories of AI Advisory Depth framework, the Board Question Reframe, and the Depth Test Questions. Includes three LinkedIn posts.
+
+# IP Extraction — Blog 41
+## Who Is Actually Advising Your Organisation on AI?
+**Source:** Blog post | Apr 2026
+**GTL Pillars:** Positioning, Practice
+**Domain:** AI, Strategy Execution
+---
+## Core Argument
+The AI advisory market has grown faster than the ability to evaluate it. Every board has AI on the agenda, but the quality of the conversation depends entirely on who is shaping it. Most AI advice falls into one of three categories, and only one of them is built on depth that will actually help an organisation execute. The blog introduces a three-category framework for evaluating AI advisors and provides specific diagnostic questions leaders can use to test for genuine depth versus assembled knowledge.
+---
+## Key Frameworks & Models
+### The Three Categories of AI Advisory Depth
+**Category 1: Technology-Led**
+Advice that comes from a technology lens — platforms, tools, infrastructure, what is technically possible. Valuable for technology selection and architecture. Becomes a problem when it is the only input for transformation decisions, because it misses the equally critical dimensions: operating model design, governance architecture, workforce readiness and transition, and adoption strategy.
+**Category 2: Conceptually Sound, Practically Thin**
+The hardest category to evaluate from the outside. Advisors who are intelligent, well-read, and articulate on AI. Their content is structured and logical. It makes sense in a boardroom briefing. But after sitting with the advice, it starts to feel like a well-organised version of what you already know — sound principles of good strategy, repackaged with AI terminology. This is not a question of intelligence or intent. It is the difference between studying a discipline and having practised it under pressure.
+**Category 3: Built from the Work Itself**
+The smallest category and the hardest to find. People who have led AI transformation from the inside. Accountable for outcomes, not just recommendations. They have built programs, hit walls, revised their thinking, and refined their approaches based on what they learned when things went sideways. Their frameworks carry the weight of real experience.
+### The Board Question Reframe
+Most board-level AI conversations start with "what are we doing with AI?" — which pulls the room toward a technology briefing. The shift that works: move from "what are we doing with AI?" to "are we structurally ready to deliver on AI? And subsequently, what business capabilities can be elevated using it?" This opens the dimensions that actually determine success or failure: data foundations, governance design, leadership alignment, workforce transition, operating model readiness.
+### The Depth Test Questions
+Specific questions to test for genuine depth in an AI advisor:
+- What happens when a technically successful pilot still fails to get adopted?
+- How does governance need to shift as an AI program matures from experimentation to scale?
+- How do you scale an AI pilot to a full-scale production-ready implementation?
+- How do you measure AI cost and benefits in the short and long term?
+- What did you change your mind about after something did not go the way you expected?
+Where there is depth, the conversation quickly gets specific. Where there is not, it stays at a level of generality that feels safe but does not move the needle.
+### Signs of Genuine Depth vs. Assembled Knowledge
+| Genuine Depth | Assembled Knowledge |
+|---|---|
+| Talks about failure with specificity | Talks about frameworks with confidence |
+| Describes governance under real constraints | Describes governance as a concept |
+| Explains workforce transition in detail | Plans for workforce transition on paper |
+| Says "it depends" and then explains what it depends on | Delivers clean principles that apply everywhere |
+| Can articulate what they would do differently | Has a consistent, polished answer for everything |
+---
+## Key IP Points
+### IP Point 1: The Board Question Reframe
+**Verbatim:** "The shift I have seen work is when the conversation moves from 'what are we doing with AI?' to 'are we structurally ready to deliver on AI? And subsequently, what business capabilities can be elevated using AI?'"
+**What this IP is:** A reframe for how boards govern AI — from technology briefing to organisational readiness accountability.
+**Who it is for:** Board members, executives, and anyone facilitating AI governance conversations at the senior level.
+**Pain point:** Boards are getting technology briefings when they need to be holding the organisation accountable for readiness.
+**Benefits:** Gives the board something they can actually govern. Shifts the conversation from "what is AI doing?" to "are we ready to use it well?"
+**Angle:** The quality of what a board can govern depends entirely on the quality of the question they are given to work with.
+**Framework:** The Board Question Reframe — from "what are we doing?" to "are we structurally ready?"
+**How it can be reused:** Executive briefing facilitation, board advisory engagements, AI governance workshops.
+**Soundbite:** "The quality of what a board can govern depends entirely on the quality of the question they are given to work with."
+**Practical application:** Use this reframe at the start of any board-level AI conversation to shift from technology discussion to governance accountability.
+**Tips:** Pair with the six readiness dimensions (data quality, governance architecture, leadership alignment, change capability, technical infrastructure, workforce readiness) to give the board a concrete accountability framework.
+**Domain:** AI, Strategy Execution
+**Connections:** Links to the 5 Roads framework (Blog 45), the AI Investment to Capability framework (Blog 42), and the organisational readiness assessment model.
+### IP Point 2: The Three-Category Framework for AI Advisory Depth
+**Verbatim:** "From what I am seeing, most AI advice tends to fall into three broad categories... Category 1: technology-led... Category 2: conceptually sound... Category 3: built from the work itself."
+**What this IP is:** A diagnostic framework for evaluating the depth and credibility of AI advisors and consultants.
+**Who it is for:** Executives and corporate leaders evaluating AI advisory support; transformation professionals choosing who to learn from.
+**Pain point:** Every search for credible AI advisors returns people who sound identical. Leaders cannot reliably evaluate the alternatives.
+**Benefits:** Gives leaders a structured way to evaluate AI advisory depth beyond credentials, confidence, or how clean the framework looks on a slide.
+**Angle:** The sign of genuine depth is not confidence. It is nuance. It is the willingness to say "it depends" and then explain what it depends on.
+**Framework:** Three Categories of AI Advisory Depth — Technology-Led, Conceptually Sound, Built from the Work.
+**Soundbite:** "The sign of genuine depth is not confidence. It is nuance. It is the willingness to say 'it depends' and then explain what it depends on."
+**Practical application:** Use the Depth Test Questions when evaluating any AI advisor or consultant.
+**Domain:** AI, Positioning
+### IP Point 3: The Depth Test Questions
+**Verbatim:** "If you want to test for depth, ask questions like: What happens when a technically successful pilot still fails to get adopted? How does governance need to shift as an AI program matures from experimentation to scale?"
+**What this IP is:** A set of diagnostic questions that separate genuine AI transformation experience from assembled knowledge.
+**Who it is for:** Executives evaluating AI advisors; transformation professionals evaluating methodology and learning sources.
+**Pain point:** Leaders cannot evaluate AI advisory depth from credentials, confidence, or presentation quality alone.
+**Soundbite:** "Where there is depth, the conversation quickly gets specific."
+**Practical application:** Use these questions in any AI advisory evaluation conversation. The quality of the answer tells you everything.
+**Domain:** AI, Strategy Execution
+---
+## Soundbites
+| # | Soundbite | Source | Best Use |
+|---|-----------|--------|----------|
+| 1 | "The quality of what a board can govern depends entirely on the quality of the question they are given to work with." | Blog 41 | LinkedIn / Stage / Masterclass |
+| 2 | "The sign of genuine depth is not confidence. It is nuance. It is the willingness to say 'it depends' and then explain what it depends on." | Blog 41 | LinkedIn / Stage / Executive Briefing |
+| 3 | "Where there is depth, the conversation quickly gets specific." | Blog 41 | LinkedIn / Masterclass |
+| 4 | "AI placed atop weak foundations does not fix them. It amplifies them." | Blog 41 | Stage / LinkedIn |
+---
+## Book Chapter Candidates
+| # | Chapter Title | Core Argument | Source |
+|---|--------------|---------------|--------|
+| 1 | Who Is Actually Advising You? | The three-category framework for evaluating AI advisory depth | Blog 41 |
+| 2 | The Board Question | How the question a board starts from determines what it can govern | Blog 41 |
+---
+## Prioritised Next Steps
+| Priority | Action | Effort | Impact |
+|----------|--------|--------|--------|
+| High | Develop the Three Categories framework into a standalone diagnostic tool | Medium | High |
+| High | Create a board facilitation guide using the Board Question Reframe | Medium | High |
+| Medium | Write a positioning piece using the Depth Test Questions | Low | High |
+| Medium | Add the Depth Test Questions to the AI Transformation Masterclass materials | Low | Medium |
+---
+## LinkedIn Posts
+### Post 1 — The Board Question
+Hook: Most boards are having the wrong AI conversation. Not because they are not engaged. Because the question they are starting from leads them to the wrong place.
+Body: "What are we doing with AI?" is a natural question. It is also one that almost always pulls the room toward a technology briefing. The board hears about platforms, vendor capabilities, what competitors have announced. They walk away informed but without a clear way to evaluate whether the organisation is actually positioned to execute.
+The question that changes the conversation is this: "Are we structurally ready to deliver on AI? And what business capabilities can be elevated using it?"
+That question opens up the dimensions that actually determine whether AI delivers or disappoints. Whether the data foundations are in place. Whether governance is designed to enable speed rather than create bottlenecks. Whether the workforce transition has been thought through beyond a training plan. Whether the operating model can absorb what AI changes about how work gets done.
+Those are not technology questions. They are organisational readiness questions. And they give the board something they can actually govern.
+Insight: The quality of what a board can govern depends entirely on the quality of the question they are given to work with.
+CTA: What question is your board starting from when AI comes up on the agenda?
+### Post 2 — Three Categories of AI Advice
+Hook: There are three categories of AI advice in the market right now. Only one of them is built on the kind of depth that will actually help you execute.
+Body: Category 1 is technology-led. Advice that comes from a platform or engineering lens. Excellent for technology selection and architecture. The problem comes when it becomes the only input for transformation decisions, because it misses the equally critical dimensions: operating model design, governance architecture, workforce readiness, adoption strategy.
+Category 2 is the hardest to evaluate from the outside. Advisors who are intelligent, well-read, and articulate on AI. Their content is structured. It makes sense in a boardroom briefing. But after sitting with it for a while, it starts to feel like a well-organised version of what you already know. Sound principles of good strategy, repackaged with AI terminology.
+Category 3 is the smallest and the hardest to find. People who have led AI transformation from the inside. Accountable for outcomes, not just recommendations. They have built programs, hit walls, revised their thinking, and refined their approaches based on what they learned when things went sideways.
+The sign of genuine depth is not confidence. It is nuance. It is the willingness to say "it depends" and then explain exactly what it depends on.
+Insight: Most AI advice in the market right now sits in Category 2. It sounds credible. It stays at a level of generality that feels safe. And it does not move the needle.
+CTA: Which category is most of the AI advice you are currently receiving?
+### Post 3 — The Depth Test
+Hook: If you want to know whether the AI advice you are receiving is built on real experience, ask one of these questions.
+Body: Most AI advisors sound credible. Credentials, confidence, clean frameworks, polished presentations. From the outside, it is genuinely hard to tell who has been in the work and who has assembled their knowledge from publicly available material.
+Here is what I use to test for depth.
+Ask what happens when a technically successful pilot still fails to get adopted. Ask how governance needs to shift as an AI program matures from experimentation to scale. Ask what they changed their mind about after something did not go the way they expected.
+Where there is depth, the conversation gets specific fast. The failure question produces a particular story with a particular lesson. The governance question produces a nuanced answer that acknowledges what changes at different stages of maturity.
+Where there is not depth, the conversation stays at a level of generality that feels safe but does not move the needle.
+The best test of any AI advice is whether it still holds when the room gets complicated, the stakeholders disagree, and the plan meets reality. That is where depth earns its place.
+Insight: Depth is not demonstrated by confidence. It is demonstrated by specificity, by nuance, and by the willingness to say "here is what I got wrong."
+CTA: What question do you use to test for genuine depth in an advisor or consultant?
+
+---
+
+## The AI Conversation Every Executive Is Having Right Now — 5 Roads (Blog IP — Blog 42)
+**Description:** IP extraction from the blog 'The AI Conversation Every Executive Is Having Right Now. 5 Roads. Only 1 Builds Enterprise Capability.' Extracts the Five Roads to AI Strategy framework, the Business-Led Reframe, the Six Readiness Dimensions, the Four AI Participation Modes, and the 88% PoC Failure insight. Includes three LinkedIn posts.
+
+# IP Extraction — Blog 42
+## The AI Conversation Every Executive Is Having Right Now. 5 Roads. Only 1 Builds Enterprise Capability.
+**Source:** Blog post | Apr 2026
+**GTL Pillars:** Positioning, Practice, Performance
+**Domain:** AI, Strategy Execution
+---
+## Core Argument
+When a board asks "where do we go from here with AI?", the answer almost always goes down one of five roads. Each road has something useful in it. But only one builds genuine enterprise AI capability. The blog maps all five roads, names what each one produces, and makes the case for why Road 5 — starting from the business rather than the technology — is the only approach that consistently delivers measurable return on AI investment. The framework is grounded in research showing that 79% of organisations have invested in AI tools but only 9% have transformed how work gets done.
+---
+## Key Frameworks & Models
+### The Five Roads to AI Strategy
+**Road 1: "Let's get everyone educated first."**
+The exec team goes on a program at MIT, Stanford, or Oxford. The organisation runs workshops and AI awareness campaigns. Valuable for creating a common language. Becomes a problem when education becomes the strategy. Enthusiasm without structure is energy without direction. Only 45% of leaders feel confident in their organisation's ability to effectively transform, even when enthusiasm is high (Russell Reynolds Associates, 2025).
+**Road 2: "Let's see what's out there."**
+Starts with the technology landscape. Natural starting point. Becomes a problem when the vendor conversation starts to shape the strategy conversation. S&P Global found that 42% of companies abandoned most of their AI initiatives in 2025, with a significant driver being investment scattered across use cases without a strategic architecture connecting them.
+**Road 3: "Let's get a team on it."**
+Hire a Head of AI or set up a small AI function. Can genuinely work — but only under specific conditions: the organisation is already mature in transformation practices, and the talent hired has experience of end-to-end AI transformation at the enterprise level.
+**Road 4: "Let's start with the quick wins."**
+The most common road and the most deceptive. Roll out Copilot or equivalent, let business units experiment, show the board early results. Genuine productivity gains are real. But: Docebo found that 79% of organisations have invested in AI tools, but only 9% have transformed how work gets done. DataCamp found that only 21% of enterprises report significant positive ROI from AI investment. IBM found that only about 25% of AI initiatives deliver expected ROI, and just 16% have scaled enterprise-wide. The quick wins create a sense of progress that masks the deeper problem: the organisation has not crossed the line from individual productivity into enterprise-level AI capability.
+**Road 5: "What do we actually want AI to do for us?"**
+Starts from the business, not the technology. What are the capabilities that matter most to our strategy? Where are the performance gaps? Could AI close any of them? This single reframe changes the trajectory of every decision that follows. From there, the approach becomes structured across five stages: (1) assess organisational readiness across six dimensions before committing to budget; (2) determine what AI should actually do for each capability; (3) design the right level of AI participation; (4) structure the proof of concept as a test of organisational readiness; (5) design adoption from day one.
+### The Six Readiness Dimensions
+Before committing to AI investment, assess readiness across: data quality, governance architecture, leadership alignment, change capability, technical infrastructure, and workforce readiness. AI placed atop weak foundations does not fix them. It amplifies them.
+### The Four AI Participation Modes
+- **Copilot:** Human reviews every output
+- **Agent with guardrails:** AI operates within defined parameters
+- **Autonomous agent:** AI operates independently within its domain
+- **Agent-to-agent:** AI systems coordinating with each other
+The operating mode is a governance and transformation decision, not a technology decision.
+### The 88% PoC Failure Insight
+88% of proofs of concept never reach production (IDC/CIO, 2025). In almost every case, the technology worked. What was not structured was the organisational side: data readiness, governance design, workforce preparation, dependency mapping.
+### The Transformation Disciplines Argument
+The disciplines that determine whether AI investment becomes enterprise capability — readiness assessment, governance design, adoption planning, workforce transition, and measurement that connects to business outcomes — are transformation disciplines. HBR reported that only around 29% of organisations can reliably measure AI ROI today (HBR, 2026).
+---
+## Key IP Points
+### IP Point 1: The Five Roads Framework
+**Verbatim:** "I'll walk you through each one, and you will recognise where your organisation is right now. I am not here to judge any of these roads. Every one of them has something useful in it. What I want to do is be honest about where each one leads when it is treated as the strategy rather than as part of something bigger."
+**What this IP is:** A diagnostic framework that maps the five most common AI strategy approaches and explains what each one produces.
+**Who it is for:** Executives and boards deciding how to approach AI strategy; transformation leaders advising on AI programs.
+**Pain point:** Executives know they need to "be in the AI space" but do not have a clear way to evaluate which approach will actually deliver enterprise capability.
+**Benefits:** Helps leaders recognise where their organisation currently sits, understand the limitations of their current road, and make an informed decision about whether to stay on it or shift.
+**Angle:** Every road has something useful in it. The problem is when any one of them is treated as the strategy rather than as part of something bigger.
+**Framework:** The Five Roads to AI Strategy — Education, Technology Landscape, AI Function, Quick Wins, Business-Led.
+**Soundbite:** "The quick wins create a sense of progress that can mask a deeper problem: the organisation has not crossed the line from individual productivity into enterprise-level AI capability."
+**Practical application:** Use the Five Roads as a diagnostic in any AI strategy conversation. Ask: which road are we on? What is it producing? Is it the right road for where we want to get to?
+**Domain:** AI, Strategy Execution
+### IP Point 2: The Business-Led Reframe (Road 5)
+**Verbatim:** "Instead of starting with the technology, the education, or the quick wins, it starts with the business. What are the capabilities that matter most to our strategy? Where are the performance gaps? Could AI close any of them? That single reframe changes the trajectory of every decision that follows."
+**What this IP is:** The core strategic reframe that distinguishes a business-led AI strategy from a technology-led one.
+**Who it is for:** Executives, boards, and transformation leaders designing AI strategy.
+**Soundbite:** "That single reframe changes the trajectory of every decision that follows."
+**Domain:** AI, Strategy Execution
+### IP Point 3: The 88% PoC Failure Insight
+**Verbatim:** "88% of proofs of concept never reach production (IDC/CIO, 2025), and in almost every case, the technology worked. What was not structured was the organisational side."
+**What this IP is:** A research-backed insight that reframes PoC failure as an organisational readiness problem, not a technology problem.
+**Soundbite:** "88% of proofs of concept never reach production. In almost every case, the technology worked. What was not structured was the organisational side."
+**Domain:** AI, Strategy Execution
+---
+## Soundbites
+| # | Soundbite | Source | Best Use |
+|---|-----------|--------|----------|
+| 1 | "The quick wins create a sense of progress that can mask a deeper problem: the organisation has not crossed the line from individual productivity into enterprise-level AI capability." | Blog 42 | LinkedIn / Stage / Masterclass |
+| 2 | "That single reframe changes the trajectory of every decision that follows." | Blog 42 | LinkedIn / Stage |
+| 3 | "88% of proofs of concept never reach production. In almost every case, the technology worked. What was not structured was the organisational side." | Blog 42 | Stage / Masterclass / Executive Briefing |
+| 4 | "AI placed atop weak foundations does not fix them. It amplifies them." | Blog 42 | LinkedIn / Stage |
+| 5 | "Enthusiasm without structure is energy without direction." | Blog 42 | LinkedIn / Stage |
+---
+## Book Chapter Candidates
+| # | Chapter Title | Core Argument | Source |
+|---|--------------|---------------|--------|
+| 1 | Five Roads, One Destination | The diagnostic framework for AI strategy approaches and why only one builds enterprise capability | Blog 42 |
+| 2 | The Organisational Side | Why 88% of AI pilots fail and what to do about it | Blog 42 |
+---
+## Prioritised Next Steps
+| Priority | Action | Effort | Impact |
+|----------|--------|--------|--------|
+| High | Develop the Five Roads into a standalone diagnostic tool for executive workshops | Medium | High |
+| High | Build the Six Readiness Dimensions into a formal assessment instrument | High | High |
+| Medium | Create a "Which Road Are You On?" self-assessment for LinkedIn lead generation | Low | High |
+| Medium | Add the 88% PoC failure insight to the AI Transformation Masterclass materials | Low | Medium |
+---
+## LinkedIn Posts
+### Post 1 — The Five Roads
+Hook: When the board asks "where do we go from here with AI?", the answer almost always goes down one of five roads. Most organisations are on the wrong one.
+Body: I have sat in a lot of closed-door executive conversations about AI strategy. Different industries, different countries, different sizes. The conversation almost always starts the same way: "The board wants us in the AI space. Where do we go from here?"
+What follows is a decision that shapes everything. And it tends to go down one of five roads.
+Road 1: Get everyone educated first. Road 2: See what's out there in the market. Road 3: Hire a Head of AI and give them the mandate. Road 4: Start with the quick wins. Road 5: Ask what we actually want AI to do for the business.
+Every road has something useful in it. The problem is when any one of them gets treated as the strategy rather than as part of something bigger.
+Road 4 is the most common and the most deceptive. The productivity gains are real. The organisation starts to feel like it is "in the AI space." But 79% of organisations have invested in AI tools and only 9% have transformed how work gets done. The quick wins create a sense of progress that masks the deeper problem: the organisation has not crossed the line from individual productivity into enterprise-level AI capability.
+Insight: Only one road builds genuine enterprise AI capability. It starts not from the technology, but from the business. What capabilities matter most to the strategy? Where are the performance gaps? Could AI close any of them? That single reframe changes the trajectory of every decision that follows.
+CTA: Which road is your organisation on right now?
+### Post 2 — Why AI Pilots Fail
+Hook: 88% of AI proofs of concept never reach production. In almost every case, the technology worked. What failed was the organisational side.
+Body: This is one of the most important and least discussed facts about AI transformation.
+The pilot runs. The technology performs. The use case is validated. And then nothing happens. The capability never reaches production. The investment does not compound. The organisation moves on to the next pilot.
+The reason is almost never the technology. The data was not actually ready. The governance was not designed. The workforce was not prepared for what the change meant for their roles. The dependencies were not mapped. The adoption was planned for after deployment, not from day one.
+Structuring a proof of concept as a test of technical feasibility is the wrong frame. The right frame is: can the organisation absorb this capability? Is the data genuinely ready? Is the governance designed? Has the workforce been prepared? Are the dependencies mapped?
+Those are not technology questions. They are transformation questions. And if they are not answered before the pilot starts, the 88% statistic will keep holding.
+Insight: AI placed atop weak foundations does not fix them. It amplifies them. The organisations that consistently get pilots to production are the ones that treat organisational readiness as the primary design constraint, not an afterthought.
+CTA: What does your organisation treat as the primary test of an AI pilot — technical feasibility or organisational readiness?
+### Post 3 — The Transformation Disciplines Gap
+Hook: The gap between AI investment and AI return is almost never a technology gap. It is a transformation gap.
+Body: HBR reported that only around 29% of organisations can reliably measure AI ROI today. IBM found that only about 25% of AI initiatives deliver expected ROI, and just 16% have scaled enterprise-wide.
+The technology is not the problem. The organisations that are failing to realise value from AI investment are not failing because the tools do not work. They are failing because the disciplines that determine whether AI investment becomes enterprise capability are not at the table.
+Readiness assessment. Governance design. Adoption planning. Workforce transition. Measurement that connects to business outcomes. These are transformation disciplines. They are not optional extras that get added after the technology is deployed. They are the conditions under which the technology delivers.
+If those disciplines are not at the table from the start, the investment goes to the technology side, and the business side catches up later. If it catches up at all.
+Not having talent that is strong in business transformation, change leadership, and strategy execution — not just delivery — will turn AI into another work stream that does not scale properly.
+Insight: The organisations producing measurable return on AI investment are not the ones with the best technology. They are the ones with the strongest transformation capability alongside the technology.
+CTA: Are the transformation disciplines at the table in your organisation's AI strategy? Or are they being brought in after the technology decisions have already been made?
+
+---
+
+## What Leaders Are Running Out Of (Blog IP — Blog 43)
+**Description:** IP extraction from the blog 'What Leaders Are Running Out Of'. Extracts the Three Scarcities framework (Capacity, Focus, Discernment), the Quicksand Pattern, the Waiting-Hoping-Settling pattern, and the Recovery Paradox. Includes three LinkedIn posts.
+
+# IP Extraction — Blog 43
+## What Leaders Are Running Out Of
+**Source:** Blog post | Apr 2026
+**GTL Pillars:** Potential, Performance
+**Domain:** Leadership, Change Leadership
+---
+## Core Argument
+The leadership development conversation of the last decade has focused on capability — upskilling, frameworks, digital fluency, AI fluency. Capability is no longer what most senior leaders are stuck on. What has quietly become scarce is something different: the capacity to apply what they know, the focus to think clearly while applying it, and the discernment to choose well between the many things competing for their attention. The blog names the three scarcities, traces how they show up, explains the quicksand pattern that keeps capable leaders stuck, and offers a practical sequence for recovery that runs counter to the instinct that built their careers.
+---
+## Key Frameworks & Models
+### The Three Scarcities Framework
+What senior leaders are actually running out of is not capability. It is three things that are scarce together:
+**1. Capacity** — the ability to apply what they know. The calendar looks full and produces nothing durable. "I'm too busy" has become the default answer to the very things that would restore them.
+**2. Focus** — the ability to think clearly while applying it. Skimming reports, knowing the section headings without absorbing the substance. Decisions that used to feel clear now take three times longer and land with less conviction.
+**3. Discernment** — the ability to choose well between competing demands. Deferring to whoever sounds most polished because weighing the alternatives would cost more than there is to give. The quality of discernment — the capability that carried them to where they are — is slipping.
+### The Quicksand Pattern
+The pattern that traps capable, senior leaders: the instinct that built their career is the same instinct keeping them stuck. This instinct is the right instinct for a capability problem. It is the wrong instinct for a capacity problem. What starts as "let me try this for a week or two" quietly becomes a month, then a quarter, then a year.
+**Key distinction:** Capacity cannot be restored through more effort. Effort is what depleted it.
+### The Waiting, Hoping, and Settling Pattern
+A quieter pattern happening to the leader underneath the work. Waiting for things to get better, hoping they settle after the next reorg or budget cycle or promotion. And then, quietly, the settling itself. Not all at once, but in small increments. The dreams that fade first are often the ones that mattered most. When capacity runs low for long enough, bigger ambitions get traded for smaller comforts.
+### The Recovery Sequence (Strategic Subtraction + Lean In)
+**Step 1: Recognition.** Name that capacity is the real issue.
+**Step 2: Strategic Subtraction.** You do not free up capacity by adding more. You free it up by subtracting what does not need to be there and by building the capabilities and systems that let you move faster through what does.
+**Step 3: Lean In.** Stop using busyness as the reason for not leaning into what is already available.
+**The paradox:** The calm comes after you lean in, not before.
+---
+## Key IP Points
+### IP Point 1: The Three Scarcities Framework
+**Verbatim:** "What has quietly become scarce is something else: our own capacity to apply what we know, our focus while we apply it, and the discernment to choose well between the many things competing for our attention."
+**What this IP is:** A reframe of the senior leader development conversation — from capability (what they know) to the three things that are actually scarce (capacity, focus, discernment).
+**Who it is for:** Senior leaders who are capable but stuck; coaches and practitioners working with senior leaders.
+**Pain point:** Leaders have invested in capability and still feel like they are not performing at their best. The standard diagnosis (more skills, more frameworks) does not fit the problem.
+**Benefits:** Names the actual problem precisely, which is the first step to addressing it. Gives leaders a vocabulary for what they are experiencing.
+**Angle:** Capability was the last conversation. What is scarce now is the capacity to apply it, the focus to think through it, and the discernment to choose well.
+**Framework:** The Three Scarcities — Capacity, Focus, Discernment.
+**Soundbite:** "Capability was the last conversation. What is scarce now is the capacity to apply it, the focus to think through it, and the discernment to choose well between what is asking for your attention."
+**Practical application:** Use the Three Scarcities as a diagnostic in coaching intake. Ask: which of these three is most depleted right now?
+**Domain:** Leadership, Change Leadership
+### IP Point 2: The Quicksand Pattern
+**Verbatim:** "This instinct is the right instinct for a capability problem. It is the wrong instinct for a capacity problem, and most of us have not told ourselves the difference."
+**What this IP is:** A precise diagnosis of why capable, senior leaders stay stuck — the instinct that built their career is the same instinct keeping them in the quicksand.
+**Soundbite:** "Capacity cannot be restored through more effort. Effort is what depleted it."
+**Domain:** Leadership
+### IP Point 3: The Waiting, Hoping, and Settling Pattern
+**Verbatim:** "Waiting for things to get better. Hoping they settle after the next reorg, the next budget cycle, the next promotion, the next whatever. And then, quietly, the settling itself. Not all at once, but in small increments."
+**What this IP is:** A named pattern for the slow erosion of ambition that happens when capacity stays depleted for too long.
+**Soundbite:** "When capacity runs low for long enough, your bigger ambitions get traded for smaller comforts. And it happens so slowly, you miss it until a lot of ground is gone."
+**Domain:** Leadership
+### IP Point 4: The Recovery Paradox
+**Verbatim:** "The calm comes after you lean in, not before."
+**What this IP is:** A counter-intuitive insight about when to lean into support — before things calm down, not after.
+**Soundbite:** "The calm comes after you lean in, not before."
+**Domain:** Leadership
+---
+## Soundbites
+| # | Soundbite | Source | Best Use |
+|---|-----------|--------|----------|
+| 1 | "Capability was the last conversation. What is scarce now is the capacity to apply it, the focus to think through it, and the discernment to choose well." | Blog 43 | LinkedIn / Stage / Masterclass |
+| 2 | "Capacity cannot be restored through more effort. Effort is what depleted it." | Blog 43 | LinkedIn / Stage / Coaching |
+| 3 | "When capacity runs low for long enough, your bigger ambitions get traded for smaller comforts. And it happens so slowly, you miss it until a lot of ground is gone." | Blog 43 | LinkedIn / Stage / Coaching |
+| 4 | "The calm comes after you lean in, not before." | Blog 43 | LinkedIn / Stage |
+| 5 | "The instinct that built your career is the same instinct keeping you in the quicksand." | Blog 43 | LinkedIn / Stage / Coaching |
+---
+## Book Chapter Candidates
+| # | Chapter Title | Core Argument | Source |
+|---|--------------|---------------|--------|
+| 1 | What You Are Actually Running Out Of | The Three Scarcities reframe — capability is not the binding constraint | Blog 43 |
+| 2 | The Quicksand | Why the instinct that built your career is the same instinct keeping you stuck | Blog 43 |
+| 3 | The Slow Settling | How capacity depletion trades bigger ambitions for smaller comforts | Blog 43 |
+---
+## Prioritised Next Steps
+| Priority | Action | Effort | Impact |
+|----------|--------|--------|--------|
+| High | Develop the Three Scarcities as a diagnostic tool for ELEVATE programme intake | Low | High |
+| High | Create a LinkedIn post series using the Quicksand Pattern and Recovery Paradox | Low | High |
+| Medium | Build the Three Scarcities into a self-assessment for lead generation | Medium | High |
+| Medium | Use "The calm comes after you lean in, not before" as a campaign hook for ELEVATE | Low | Medium |
+---
+## LinkedIn Posts
+### Post 1 — The Three Scarcities
+Hook: The leadership development conversation of the last decade has been about capability. That is no longer what most senior leaders are stuck on.
+Body: Over the last decade, the conversation about senior leaders has been about capability. Upskilling, frameworks, digital fluency, now AI fluency. We have invested. Our organisations have invested in us. We have personally invested.
+Capability, by and large, is no longer what we are stuck on.
+What has quietly become the issue is something else, and it is personal. Three things, actually.
+Our own capacity to apply what we know. The calendar looks full and produces nothing durable. We arrive at the strategic meeting we had been preparing for and realise we have nothing left for the thinking it actually needs.
+Our focus to think clearly while applying it. We skim our own team's reports, knowing the section headings without absorbing the substance. Decisions that used to feel clear now take three times longer and land with less conviction.
+Our discernment to choose well between what is competing for our attention. We defer to whoever sounds most polished because weighing the alternatives would cost more than we have to give. The capability that carried us here is slipping.
+Insight: Capability was the last conversation. What is scarce now is the capacity to apply it, the focus to think through it, and the discernment to choose well between what is asking for your attention.
+CTA: Which of the three is most depleted in you right now?
+### Post 2 — The Quicksand
+Hook: The instinct that built your career is the same instinct keeping you in the quicksand.
+Body: As corporate leaders, we are built to take things on. It is part of our identity. It is how we got here.
+So when the next hard thing lands, the instinct is the same one that has worked every other time. Let me have a go at this first. I will put the extra hours in. I have done this before.
+Here is the harder truth. This instinct is the right instinct for a capability problem. It is the wrong instinct for a capacity problem. And most of us have not told ourselves the difference.
+What starts as "let me try this for a week or two" quietly becomes a month, then a quarter, then a year. The work keeps getting done. The hours keep going in. The output keeps becoming less proportional to the effort being poured in. Swimming harder and moving slower.
+The reason it traps intelligent, senior people is that the very traits that built our careers — self-reliance, high standards, willingness to push through — are the same traits keeping us stuck. We read the struggle as a prompt to try harder. It is actually telling us the constraint has changed.
+Capacity cannot be restored through more effort. Effort is what depleted it.
+Insight: The move is not to push harder through it. The instinct that built your career is the same instinct keeping you in the quicksand. Recognising the difference between a capability problem and a capacity problem is the first step out.
+CTA: Where have you been applying the capability instinct to a capacity problem?
+### Post 3 — The Slow Settling
+Hook: The dreams that fade first are often the ones that mattered most. And they fade so slowly you miss it until a lot of ground is gone.
+Body: There is a pattern I see in leaders who are genuinely capable. The last people you would expect. It looks like waiting, hoping, and settling.
+Waiting for things to get better. Hoping they settle after the next reorg, the next budget cycle, the next promotion. And then, quietly, the settling itself. Not all at once, but in small increments.
+The hope of one day branching out of corporate and starting your own thing. Moving out of the doer role into the executive role. Running your own workshop. Having a speaking gig. Being the person others come to for advice. Being the one full of ideas and not afraid to articulate them.
+One by one, they get quietly put down. "I'm all right for now" becomes the sentence. And that is the start of the descent.
+When capacity runs low for long enough, bigger ambitions get traded for smaller comforts. And it happens so slowly that you only notice once a lot of ground has already been given up.
+The move is not to push harder through it. What is already around you — in your community, with your coach, in the peer relationships you have built over a lifetime — is not a luxury for when things calm down. It is the route back to capacity, and to the version of yourself you were always going to become.
+Insight: The calm comes after you lean in, not before.
+CTA: What have you quietly put down that you have not yet admitted to yourself?
 
 ---
