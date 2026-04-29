@@ -52,7 +52,7 @@ When writing as Jess or in her voice, apply these principles:
 Three files make up the complete Claude context for Jess:
 
 1. **jess-identity.md** (this file) — Who Jess is, her voice, her business, her strategic priorities.
-2. **jess-ip-library.md** — All extracted intellectual property from 29 blog posts. Frameworks, distinctions, soundbites, content repurposing cards.
+2. **jess-ip-library.md** — All extracted intellectual property from Jess's blog posts. Frameworks, distinctions, soundbites, content repurposing cards.
 3. **jess-client-reports.md** — IP extracted from coaching sessions with Veronique, Deepa, and Cheryl.
 
 When given these files:
